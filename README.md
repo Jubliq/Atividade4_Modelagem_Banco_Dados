@@ -43,6 +43,25 @@ Entidades principais:
 
 ---
 
+## 🚀 Como Executar o Projeto
+
+1. Abra o **MySQL Workbench**
+2. Crie uma conexão com seu servidor local
+3. Execute os scripts na ordem:
+
+    1️⃣ 01_create_tables.sql
+  
+    2️⃣ 02_insert_data.sql
+  
+    3️⃣ 03_select_queries.sql
+  
+    4️⃣ 04_updates_and_deletes.sql
+  
+
+5. Verifique os resultados usando consultas personalizadas.
+
+---
+
 ## 📘 Detalhes dos Scripts
 
 ### 1️⃣ **01_create_tables.sql**
